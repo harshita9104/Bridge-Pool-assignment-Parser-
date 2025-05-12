@@ -16,8 +16,10 @@
 - Retry & backoff (via tokio-retry) for resilient network fetches
 - CLI flags for format, limit, dry-run, etc.
 - Unit tested & tracing-enabled logs
+
 ## Diagram
-![Library Architecture](./diagram.png)
+![diagram](https://github.com/user-attachments/assets/fef120fb-38ea-4626-8b16-4abff6c50956)
+
 
 ##  Quick Start
 
