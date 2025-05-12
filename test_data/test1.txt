@@ -1,0 +1,21 @@
+bridge-pool-assignment 2022-04-09 00:29:37
+0004f8aea55fe852194674c8554d68cc5e7a5bba email transport=vanilla ip=4,6 distributed=true state=functional bandwidth=untested
+0009fd594d4f125e3300826adade11964c925dd5 https transport=webtunnel ip=6 distributed=true state=functional bandwidth=untested
+001b4642a32171ac0360dc0c1fa2f1ae130ee99f settings transport=vanilla ip=4 distributed=false state=dysfunctional bandwidth=untested
+00382ab470bc22674984bea11b740c553496a5e3 settings transport=obfs4 ip=4 distributed=true state=functional bandwidth=untested
+0082e9f98381722fe14fae3248548f98ec485780 reserved transport=vanilla ip=4,6 distributed=false state=untested bandwidth=untested
+009cda476053b5df4441211cb25f9b2190bb0128 settings transport=obfs4 ip=4 distributed=true state=functional bandwidth=untested
+00b6545499d9aeaebd6e0e228b92e557d640eb75 email transport=obfs4 ip=4 distributed=true state=functional bandwidth=untested
+00e1ae6cb75e47e363e6aef9f67a49c0e854fde7 https transport=obfs4 ip=6 distributed=true state=functional bandwidth=accepted ratio=1.49
+00f61a4a92bc38221b3a509fbe260fed2dbfb20b https transport=vanilla ip=4 distributed=false state=dysfunctional bandwidth=untested
+01211ae573a28fff727c837ba8f4d7e9e667c74d settings transport=webtunnel ip=6 distributed=false state=dysfunctional bandwidth=untested
+01360b087e3659600bdc8ea969610d83ebb055b4 settings transport=webtunnel ip=6 distributed=true state=functional bandwidth=untested
+01471e73d4197d8e7f7d9014211138f4fa4e7de7 https transport=obfs4 ip=6 distributed=true state=functional bandwidth=untested
+015564c3c036fd723a5751044568c7167774c316 email transport=vanilla ip=4 distributed=true state=functional bandwidth=untested
+018f98665c2092075c03ae0e01e2b911e4e79599 email transport=obfs4 ip=4 distributed=false state=dysfunctional bandwidth=untested
+01bf4279de9fc549ffd0fdf6ba39bff8ec63ce2b settings transport=obfs4 ip=4 distributed=true state=functional bandwidth=untested
+01c4f4c5dc312e0959eed76e520e899e8b971552 https transport=obfs4 ip=4 distributed=true state=functional bandwidth=rejected ratio=0.898
+01c6574d62a56f428fa649834d2bb21646f2a78e moat transport=obfs4 ip=6 distributed=true state=functional bandwidth=accepted ratio=1.579
+01d7b24a1260a8fb41cb9a66a5ba108937a4a362 telegram transport=obfs4 ip=4 distributed=true state=functional bandwidth=accepted ratio=1.471
+01ff41dbc553407ca420683c57d7eb226eeaee57 https transport=obfs4 ip=6 distributed=false state=dysfunctional bandwidth=accepted ratio=1.286
+020b4b26acb6fff00a4fb01f88d2e9118f3f08b2 settings transport=obfs4 ip=4 distributed=true state=functional bandwidth=untested
